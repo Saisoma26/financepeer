@@ -1,0 +1,37 @@
+.products-loader-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bookslist {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.no-books-heading {
+  font-size: 28px;
+  font-weight: bold;
+  color: #323f4b;
+  text-align: center;
+}
+.failureContainer {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.failureheading {
+  font-size: 28px;
+  font-weight: bold;
+  color: #323f4b;
+  text-align: center;
+}
+.booksimage-container {
+  padding: 20%;
+}
+.booksimage {
+  height: 30vh;
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
